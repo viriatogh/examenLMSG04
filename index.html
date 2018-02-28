@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<Link rel = "stylesheet" type = "text/css" media="screen and (min-width: 720px)" href = "css/estilos_pc.css">
+	<link rel = "stylesheet" type = "text/css" media="screen and (max-width: 720px)" href="css/estilos_mob.css"> 
+	<h2>Instrucciones de exámen</h2>
+</head>
+<body>
+	<p>Lea detenidamente estas instrucciones. No comience el exámen sin haberlas leído.</p>
+	<ul>
+		<li>Lea detenídamente todos los enuncuiados para saber que le están preguntando.</li>
+		<li>Asegúrese si le piden una respuesta o varias respuestas en la pregunta.</li>
+		<li>Su tiempo para realizar este exámen es de 30 minutos.</li>
+	</ul>
+	<form action="examen.html" method="post">
+		<fieldset>
+			<legend>Identifiquese</legend>
+			Nombre:<br>
+			<input type="text" name="nombre" placeholder="Nombre" required><br>
+			Apellidos:<br>
+			<input type="text" name="apellidos" placeholder="Apellidos" required><br><br>
+			<input type="submit" value="Entrar">
+		</fieldset>
+	</form>
+</body>
+</html>

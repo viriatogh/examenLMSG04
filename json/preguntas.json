@@ -1,0 +1,132 @@
+﻿{
+  "questions": {
+    "question": [
+      {
+        "-id": "profe_001",
+        "type": "text",
+        "title": " Pregunta 1 ",
+        "cuerpo": " ¿Cuántos bits tiene un byte? ",
+        "answer": "8"
+      },
+      {
+        "-id": "profe_002",
+        "type": "select",
+        "title": "Pregunta 2",
+        "cuerpo": "XML son las iniciales de...",
+        "option": [
+          "Expresión mínima del lago",
+          "Extensible Markup Language",
+          "Extensión Milenaria Libanesa"
+        ],
+        "answer": "1"
+      },
+      {
+        "-id": "profe_003",
+        "type": "checkbox",
+        "title": "Pregunta 3",
+        "cuerpo": "Elija que tipo de archivos puede tener una página web para que funciones (puede elegir más de una)",
+        "option": [
+          "HTML",
+          "CSS",
+          "JS",
+          "JSON"
+        ],
+        "answer": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "-id": "profe_004",
+        "type": "radio",
+        "title": "Pregunta 4",
+        "cuerpo": "¿Qué se necesita para que un ordenador se conecte a internet?",
+        "value": [
+          "Una conexión a internet y una tarjeta de red",
+          "Una conexión a internet",
+          "Una conexión a internet, un cable que conecte una tarjeta de red y la conexión y una tarjeta de red",
+          "Ninguna es correcta"
+        ],
+        "answer": "2"
+      },
+      {
+        "-id": "profe_005",
+        "type": "select",
+        "title": "Pregunta 5",
+        "cuerpo": "¿Que componentes tiene un ordenador?",
+        "option": [
+          "Un puro",
+          "Una placa base",
+          "Papel de plata",
+          "Un procesador"
+        ],
+        "answer": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "-id": "profe_006",
+        "type": "radio",
+        "title": "Pregunta 6",
+        "cuerpo": "¿Cuál es la unidad mínima de información?",
+        "value": [
+          "BIT",
+          "BYTE",
+          "MEGABYTE",
+          "PETABYTE"
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "profe_007",
+        "type": "checkbox",
+        "title": "Pregunta 7",
+        "cuerpo": "Cual de estos archivos son páginas de inicio en una página web (puede elegir más de una)",
+        "option": [
+          "index.html",
+          "index.http",
+          "index.hrt",
+          "index.htm"
+        ],
+        "answer": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "-id": "profe_008",
+        "type": "text",
+        "title": " Pregunta 8 ",
+        "cuerpo": " ¿Cuántos Bytes tiene un Megabyte? ",
+        "answer": "1024"
+      },
+      {
+        "-id": "profe_009",
+        "type": "select",
+        "title": "Pregunta 9",
+        "cuerpo": "Los archivos *.js pertenecen a:",
+        "option": [
+          "Java",
+          "JavaScript",
+          "JustoScript"
+        ],
+        "answer": "1"
+      },
+      {
+        "-id": "profe_010",
+        "type": "select",
+        "title": "Pregunta 10",
+        "cuerpo": "Si un CSS no es validado",
+        "option": [
+          "No se sabe",
+          "Deberías llorarle al profesor",
+          "Estas suspendido automáticamente"
+        ],
+        "answer": "2"
+      }
+    ]
+  }
+}

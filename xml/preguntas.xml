@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE questions SYSTEM "questions2.dtd"> -->
+
+<questions>
+    <question id="profe_001">
+		<type>text</type>
+		<title> Pregunta 1 </title>
+		<cuerpo> ¿Cuántos bits tiene un byte? </cuerpo>
+		<answer>8</answer>
+    </question>
+    <question id="profe_002">
+		<type>select</type>
+		<title>Pregunta 2</title>
+		<cuerpo>XML son las iniciales de...</cuerpo>
+			<option>Expresión mínima del lago</option>
+			<option>Extensible Markup Language</option>
+			<option>Extensión Milenaria Libanesa</option>
+		<answer>1</answer>
+    </question>
+    <question id="profe_003">
+		<type>checkbox</type>
+		<title>Pregunta 3</title>
+		<cuerpo>Elija que tipo de archivos puede tener una página web para que funciones (puede elegir más de una)</cuerpo>
+			<option>HTML</option>
+			<option>CSS</option>
+			<option>JS</option>
+			<option>JSON</option>
+		<answer>0</answer>
+		<answer>1</answer>
+		<answer>2</answer>
+		<answer>3</answer>
+    </question>
+	<question id="profe_004">
+		<type>radio</type>
+		<title>Pregunta 4</title>
+		<cuerpo>¿Qué se necesita para que un ordenador se conecte a internet?</cuerpo>
+		<value>Una conexión a internet y una tarjeta de red</value>
+		<value>Una conexión a internet</value>
+		<value>Una conexión a internet, un cable que conecte una tarjeta de red y la conexión y una tarjeta de red</value>
+		<value>Ninguna es correcta</value>
+		<answer>2</answer>
+    </question>
+	<question id="profe_005">
+		<type>select</type>
+		<title>Pregunta 5</title>
+		<cuerpo>¿Que componentes tiene un ordenador?</cuerpo>
+			<option>Un puro</option>
+			<option>Una placa base</option>
+			<option>Papel de plata</option>
+			<option>Un procesador</option>
+		<answer>1</answer>
+		<answer>3</answer>
+    </question>
+	<question id="profe_006">
+		<type>radio</type>
+		<title>Pregunta 6</title>
+		<cuerpo>¿Cuál es la unidad mínima de información?</cuerpo>
+		<value>BIT</value>
+		<value>BYTE</value>
+		<value>MEGABYTE</value>
+		<value>PETABYTE</value>
+		<answer>0</answer>
+    </question>
+	<question id="profe_007">
+		<type>checkbox</type>
+		<title>Pregunta 7</title>
+		<cuerpo>Cual de estos archivos son páginas de inicio en una página web (puede elegir más de una)</cuerpo>
+			<option>index.html</option>
+			<option>index.http</option>
+			<option>index.hrt</option>
+			<option>index.htm</option>
+		<answer>0</answer>
+		<answer>3</answer>
+    </question>
+	 <question id="profe_008">
+		<type>text</type>
+		<title> Pregunta 8 </title>
+		<cuerpo> ¿Cuántos Bytes tiene un Megabyte? </cuerpo>
+		<answer>1024</answer>
+    </question>
+	<question id="profe_009">
+		<type>select</type>
+		<title>Pregunta 9</title>
+		<cuerpo>Los archivos *.js pertenecen a:</cuerpo>
+			<option>Java</option>
+			<option>JavaScript</option>
+			<option>JustoScript</option>
+		<answer>1</answer>
+    </question>
+	<question id="profe_010">
+		<type>select</type>
+		<title>Pregunta 10</title>
+		<cuerpo>Si un CSS no es validado</cuerpo>
+			<option>No se sabe</option>
+			<option>Deberías llorarle al profesor</option>
+			<option>Estas suspendido automáticamente</option>
+		<answer>2</answer>
+    </question>
+</questions>
